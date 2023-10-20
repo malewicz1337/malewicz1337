@@ -18,7 +18,7 @@ I'm Malewicz, a passionate Front End Developer who thrives on creating pixel-per
 
 ## 📈 GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=malewicz1337&show_icons=true&count_private=true&theme=default)
+![Malewicz's github stats](https://github-readme-stats.vercel.app/api?username=malewicz1337&show_icons=true&count_private=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malewicz1337&layout=compact)](https://github.com/malewicz1337/github-readme-stats)
 
