@@ -4,10 +4,10 @@ I'm Malewicz, a passionate Front End Developer who thrives on creating pixel-per
 
 ## 🛠️ My Tech Stack
 
-- **Frontend**: JS MVC, React, NextJS
+- **Frontend**: JS MVC, React, React Native, NextJS, TypeScript
 - **Backend**: Node.js
 - **Cloud**: AWS
-- **Languages**: JavaScript, Python
+- **Languages**: JavaScript, Python, Swift
 
 ## 🌱 What I'm Learning
 
