@@ -4,11 +4,10 @@ I'm Malewicz, a passionate Front End Developer who thrives on creating pixel-per
 
 ## 🛠️ My Tech Stack
 
-- **Frontend**: Vanilla MVC, React, NextJS
+- **Frontend**: JS MVC, React, NextJS
 - **Backend**: Node.js
-- **Cloud**: Various AWS Services
+- **Cloud**: AWS
 - **Languages**: JavaScript, Python
-- ... and more!
 
 ## 🌱 What I'm Learning
 
@@ -24,9 +23,9 @@ I'm Malewicz, a passionate Front End Developer who thrives on creating pixel-per
 
 ## 📫 Get in Touch
 
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-- **LinkedIn**: [YourName](https://www.linkedin.com/in/yourlinkedin/)
-- **Email**: [youremail@gmail.com](mailto:youremail@gmail.com)
+- **Portfolio**: [website.com](https://yourwebsite.com)
+- **LinkedIn**: [Name](https://www.linkedin.com/in/yourlinkedin/)
+- **Email**: [email@gmail.com](mailto:youremail@gmail.com)
 
 Feel free to check out my repositories and let's connect!
 
