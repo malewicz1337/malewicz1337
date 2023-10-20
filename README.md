@@ -7,6 +7,7 @@ I'm Malewicz, a passionate Front End Developer who thrives on creating pixel-per
 - **Frontend**: JS MVC, React, React Native, NextJS, TypeScript
 - **Backend**: Node.js
 - **Cloud**: AWS
+- **DataBases**: DynamoDB, MongoDB, SQLlite
 - **Languages**: JavaScript, Python, Swift
 
 ## 🌱 What I'm Learning
