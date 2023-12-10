@@ -13,7 +13,7 @@ I'm Malewicz, a Full Stack Developer who thrives on creating pixel-perfect UIs a
 ## 🌱 What I'm Learning
 
 - Deep diving into advanced React patterns
-- Exploring AWS even further, focusing on serverless architectures
+- Exploring AWS
 - Keeping an eye on emerging frontend technologies
 
 ## 📈 GitHub Stats
