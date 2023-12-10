@@ -1,14 +1,14 @@
-# Hello, World! 👋
+# Hello, World!
 
-I'm Malewicz, a passionate Front End Developer who thrives on creating pixel-perfect UIs and efficient user experiences. With a strong grasp on modern web technologies, I believe in building scalable and maintainable web applications that have both form and function.
+I'm Malewicz, a Full Stack Developer who thrives on creating pixel-perfect UIs and efficient user experiences. With a strong grasp on modern web technologies, I believe in building scalable and maintainable web applications that have both form and function.
 
 ## 🛠️ My Tech Stack
 
 - **Frontend**: JS MVC, React, React Native, NextJS, TypeScript
-- **Backend**: Node.js
+- **Backend**: Node.js, Express.js
 - **Cloud**: AWS
 - **DataBases**: DynamoDB, MongoDB, SQLlite
-- **Languages**: JavaScript, Python, Swift
+- **Languages**: JavaScript, Python, Swift, C
 
 ## 🌱 What I'm Learning
 
@@ -28,7 +28,6 @@ I'm Malewicz, a passionate Front End Developer who thrives on creating pixel-per
 - **LinkedIn**: [Name](https://www.linkedin.com/in/yourlinkedin/)
 - **Email**: [email@gmail.com](mailto:youremail@gmail.com)
 
-Feel free to check out my repositories and let's connect!
 
 <!---
 malewicz1337/malewicz1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
