@@ -1,6 +1,6 @@
-# Hello, World!
+# Hello
 
-I'm Malewicz, a Full Stack Developer who thrives on creating pixel-perfect UIs and efficient user experiences. With a strong grasp on modern web technologies, I believe in building scalable and maintainable web applications that have both form and function.
+Some description here.
 
 ## 🛠️ My Tech Stack
 
@@ -12,9 +12,10 @@ I'm Malewicz, a Full Stack Developer who thrives on creating pixel-perfect UIs a
 
 ## 🌱 What I'm Learning
 
-- Deep diving into advanced React patterns
-- Exploring AWS
-- Keeping an eye on emerging frontend technologies
+-
+-
+-
+-
 
 ## 📈 GitHub Stats
 
