@@ -4,18 +4,19 @@ Some description here.
 
 ## 🛠️ My Tech Stack
 
-- **Frontend**: JS MVC, React, React Native, NextJS, TypeScript
+- **Frontend**: Vanilla JS, React, React Native, NextJS, TypeScript
 - **Backend**: Node.js, Express.js
 - **Cloud**: AWS
 - **DataBases**: DynamoDB, MongoDB, SQLlite
 - **Languages**: JavaScript, Python, Swift, C
+- **Architectural Patterns**: MVC, MVP, Onion, Modular, Microservices
+- **APIs and Protocols**: REST API, GraphQL, RPC, gRPC
+- **DevOps and Containerization**: CI/CD, Docker, Kubernetes
 
 ## 🌱 What I'm Learning
 
--
--
--
--
+- **GO**
+- **Rust)))**
 
 ## 📈 GitHub Stats
 
