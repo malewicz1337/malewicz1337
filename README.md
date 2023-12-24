@@ -4,7 +4,7 @@ Some description here.
 
 ## 🛠️ My Tech Stack
 
-- **Frontend**: Vanilla JS, React, React Native, NextJS, TypeScript, HTML, CSS, TailWind
+- **Frontend**: Vanilla JS, React, React Native, NextJS, TypeScript, HTML, CSS, Tailwind
 - **Bundlers**: Webpack, Vite
 - **Backend**: Node.js, Express.js
 - **Cloud**: AWS
