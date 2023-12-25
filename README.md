@@ -4,11 +4,11 @@ Some description here.
 
 ## 🛠️ My Tech Stack
 
-- **Frontend**: Vanilla JS, React, React Native, NextJS, TypeScript, HTML, CSS, Tailwind
+- **Frontend**: Vanilla JS, React, React Native, Redux, NextJS, TypeScript, HTML, CSS, Tailwind
 - **Bundlers**: Webpack, Vite
 - **Backend**: Node.js, Express.js
 - **Cloud**: AWS
-- **DataBases**: DynamoDB, MongoDB, SQLlite
+- **DataBases**: DynamoDB, MongoDB, MySQL, PostgreSQL
 - **Languages**: JavaScript, Python, Swift, C
 - **Architectural Patterns**: MVC, MVP, Onion, Modular, Microservices
 - **APIs and Protocols**: REST API, GraphQL, RPC, gRPC
