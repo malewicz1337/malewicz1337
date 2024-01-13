@@ -4,7 +4,7 @@ Some description here.
 
 ## 🛠️ My Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, Swift, C
+- **Languages:** JavaScript, Python, Go, Swift, C
 
 ### Frontend
 
