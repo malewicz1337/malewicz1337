@@ -20,7 +20,6 @@ Some description here.
 
 - **Runtime Environment:** Node.js, Python
 - **Framework:** Express.js, Flask, Django
-- **ORMs:** Sequelize, TypeORM, SQLAlchemy, Django ORM 
 
 ### Cloud & DevOps
 
