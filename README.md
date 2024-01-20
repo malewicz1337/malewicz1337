@@ -19,13 +19,13 @@ Some description here.
 ### Backend
 
 - **Runtime Environment:** Node.js, Python
-- **Framework:** Express.js, Flask, Django
+- **Framework:** Express, Flask, Django, Fast
 
 ### Cloud & DevOps
 
 - **Cloud Services:** AWS
 - **Containerization:** Docker, Kubernetes
-- **Continuous Integration/Deployment:** AWS Pipeline, Jenkins, GitHub Actions
+- **Continuous Integration/Deployment:** AWS Pipeline, GitHub Actions
 - **Monitoring:** Prometheus, Grafana
 
 ### Databases
@@ -44,7 +44,7 @@ Some description here.
 ## 🌱 What I'm Learning
 
 - **Languages:** Go, Rust
-- **Frameworks:** Vue.js, Angular, Svelte
+- **Frameworks:** Vue.js, Angular, Svelte, Solid
 
 ## 📈 GitHub Stats
 
