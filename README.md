@@ -8,8 +8,8 @@ Some description here.
 
 ### Frontend
 
-- **Frameworks:** React Native, NextJS
-- **Libraries:** React
+- **Frameworks:** React Native, NextJS, SvelteKit
+- **Libraries:** React, Svelte
 - **UI:** HTML, CSS, Tailwind, Bootstrap
 - **State Management:** Redux, MobX
 - **Bundlers/Build Tools:** Webpack, Vite
@@ -18,8 +18,8 @@ Some description here.
 
 ### Backend
 
-- **Runtime Environment:** Node.js, Python
-- **Framework:** Express, Flask, Django, Fast
+- **Runtime Environment:** Node.js, Python, Go
+- **Framework:** Express, Flask, Django, Fast, Gin
 
 ### Cloud & DevOps
 
