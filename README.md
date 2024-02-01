@@ -41,10 +41,6 @@ Some description here.
 - **API Styles:** REST API, GraphQL
 - **Communication Protocols:** HTTP, WebSockets, RPC, gRPC
 
-## 🌱 What I'm Learning
-
-- **Languages:** Go, Rust
-- **Frameworks:** Vue.js, Angular, Svelte, Solid
 
 ## 📈 GitHub Stats
 
