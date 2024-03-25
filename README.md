@@ -1,4 +1,4 @@
-# Hello
+# Hey
 
 Some description here.
 
@@ -37,9 +37,9 @@ Some description here.
 
 ### Other
 
-- **Architectural Patterns:** MVC, MVP, Onion, Modular, Microservices
+- **Architectural Patterns:** MVC, MVVM, MVP, Onion, Modular, Microservices
 - **API Styles:** REST API, GraphQL
-- **Communication Protocols:** HTTP, WebSockets, RPC, gRPC
+- **Communication Protocols:** HTTP, WebSockets, gRPC
 
 
 ## 📈 GitHub Stats
