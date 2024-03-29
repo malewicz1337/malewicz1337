@@ -50,9 +50,9 @@ Some description here.
 
 ## 📫 Get in Touch
 
-- **Portfolio**: [website.com](https://yourwebsite.com)
-- **LinkedIn**: [Name](https://www.linkedin.com/in/yourlinkedin/)
-- **Email**: [email@gmail.com](mailto:youremail@gmail.com)
+- **Portfolio**: [website.com](https://google.com)
+- **X**: [Name](https://twitter.com/ThePrimeagen)
+- **Email**: [email@gmail.com](mailto:daniil.malewicz@proton.me)
 
 
 <!---
