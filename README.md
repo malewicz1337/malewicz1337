@@ -51,8 +51,8 @@ Some description here.
 ## 📫 Get in Touch
 
 - **Portfolio**: [website.com](https://google.com)
-- **X**: [Name](https://twitter.com/ThePrimeagen)
-- **Email**: [email@gmail.com](mailto:daniil.malewicz@proton.me)
+- **X**: [Xxxxx](https://twitter.com/ThePrimeagen)
+- **Email**: [malewicz@proton.me](mailto:daniil.malewicz@proton.me)
 
 
 <!---
