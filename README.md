@@ -1,6 +1,6 @@
 # Hey
 
-Some description here.
+Some description?
 
 ## 🛠️ My Tech Stack
 
@@ -39,7 +39,7 @@ Some description here.
 
 - **Architectural Patterns:** MVC, MVVM, MVP, Onion, Modular, Microservices
 - **API Styles:** REST API, GraphQL
-- **Communication Protocols:** HTTP, WebSockets, gRPC
+- **Communication Protocols:** HTTP, WebSockets, gRPC, tRPC
 
 
 ## 📈 GitHub Stats
