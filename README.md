@@ -5,7 +5,7 @@ Some description?
 ## 📈 GitHub Stats
 
 [![Malewicz's GitHub stats](https://github-readme-stats.vercel.app/api?username=malewicz1337&show_icons=true&theme=dark)](https://github.com/malewicz1337/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=malewicz1337)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malewicz1337&show_icons=true&theme=dark)](https://github.com/malewicz1337/github-readme-stats)
 
 ## 📫 Get in Touch
