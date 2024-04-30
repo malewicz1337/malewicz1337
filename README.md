@@ -4,9 +4,17 @@ Some description?
 
 ## 📈 GitHub Stats
 
-[![Malewicz's GitHub stats](https://github-readme-stats.vercel.app/api?username=malewicz1337&show_icons=true&theme=dark)](https://github.com/malewicz1337/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=malewicz1337&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malewicz1337&show_icons=true&theme=dark)](https://github.com/malewicz1337/github-readme-stats)
+<a href="https://github.com/malewicz1337/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malewicz1337&show_icons=true&theme=dark" />
+</a>
+<br><br>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=malewicz1337&theme=dark" />
+</a>
+<br><br>
+<a href="https://github.com/malewicz1337/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malewicz1337&show_icons=true&theme=dark" />
+</a>
 
 ## 📫 Get in Touch
 
