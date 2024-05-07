@@ -9,7 +9,7 @@ Some description?
 ### Frontend
 
 - **Frameworks:** React Native, NextJS, SvelteKit
-- **Libraries:** React, Svelte
+- **Libraries:** React, Svelte, Vue
 - **UI:** HTML, CSS, Tailwind, Bootstrap
 - **State Management:** Redux, MobX
 - **Bundlers/Build Tools:** Webpack, Vite
