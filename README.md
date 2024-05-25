@@ -8,18 +8,18 @@ Some description?
 
 ### Frontend
 
-- **Frameworks:** React Native, NextJS, SvelteKit
+- **Frameworks:** React Native, NextJS, SvelteKit, NuxtJS
 - **Libraries:** React, Svelte, Vue
 - **UI:** HTML, CSS, Tailwind, Bootstrap
-- **State Management:** Redux, MobX
+- **State Management:** Redux, MobX, Vuex
 - **Bundlers/Build Tools:** Webpack, Vite
 - **Testing:** Jest, Cypress, React Testing Library
-- **CSS Preprocessors:** SASS/SCSS
+- **CSS Preprocessors:** SASS/SCSS, LESS
 
 ### Backend
 
 - **Runtime Environment:** Node.js, Python, Go
-- **Framework:** Express, Flask, Django, Fast, Gin
+- **Framework:** Express, Flask, Django, FastAPI, Fast, Gin
 
 ### Cloud & DevOps
 
