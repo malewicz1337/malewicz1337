@@ -19,21 +19,22 @@ Some description?
 ### Backend
 
 - **Runtime Environment:** Node.js, Python, Go
-- **Framework:** Express, Flask, Django, FastAPI, Fast, Gin
+- **Framework:** Express, Flask, Django, FastAPI, Fast, Gin, NestJS
+- **Message Brokers:** RabbitMQ, BullMQ, Apache Kafka, NATS
 
 ### Cloud & DevOps
 
-- **Cloud Services:** AWS
+- **Cloud Services:** AWS, Azure
 - **Containerization:** Docker, Kubernetes
 - **Continuous Integration/Deployment:** AWS Pipeline, GitHub Actions
 - **Monitoring:** Prometheus, Grafana
+- **Logging:** Elasticsearch, Logstash, Kibana
 
 ### Databases
 
 - **SQL:** MySQL, PostgreSQL
 - **NoSQL:** DynamoDB, MongoDB
 - **In-Memory Data Stores:** Redis
-- **Search Engines:** Elasticsearch
 
 ### Other
 
