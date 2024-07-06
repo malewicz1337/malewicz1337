@@ -11,7 +11,7 @@ Some description?
 - **Frameworks:** React Native, NextJS, SvelteKit, NuxtJS
 - **Libraries:** React, Svelte, Vue
 - **UI:** HTML, CSS, Tailwind, Bootstrap
-- **State Management:** Redux, MobX, Vuex
+- **State Management:** Redux, MobX, Vuex, Zustand
 - **Bundlers/Build Tools:** Webpack, Vite
 - **Testing:** Jest, Cypress, React Testing Library
 - **CSS Preprocessors:** SASS/SCSS, LESS
@@ -20,11 +20,11 @@ Some description?
 
 - **Runtime Environment:** Node.js, Python, Go
 - **Framework:** Express, Flask, Django, FastAPI, Fast, Gin, NestJS
-- **Message Brokers:** RabbitMQ, BullMQ, Apache Kafka, NATS
+- **Message Brokers:** RabbitMQ, BullMQ, Apache Kafka, NATS, Redis
 
 ### Cloud & DevOps
 
-- **Cloud Services:** AWS, Azure
+- **Cloud Services:** AWS, Azure, Google Cloud
 - **Containerization:** Docker, Kubernetes
 - **Continuous Integration/Deployment:** AWS Pipeline, GitHub Actions
 - **Monitoring:** Prometheus, Grafana
