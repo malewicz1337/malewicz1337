@@ -10,7 +10,7 @@ Some description?
 
 - **Frameworks:** React Native, NextJS, SvelteKit, NuxtJS
 - **Libraries:** React, Svelte, Vue
-- **UI:** HTML, CSS, Tailwind, Bootstrap
+- **UI:** HTML, CSS, Tailwind
 - **State Management:** Redux, MobX, Vuex, Zustand
 - **Bundlers/Build Tools:** Webpack, Vite
 - **Testing:** Jest, Cypress, React Testing Library
