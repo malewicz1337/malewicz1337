@@ -39,8 +39,7 @@ Some description?
 ### Other
 
 - **Architectural Patterns:** MVC, MVVM, MVP, Onion, Modular, Microservices
-- **API Styles:** REST API, GraphQL
-- **Communication Protocols:** HTTP, WebSockets, gRPC, tRPC
+- **API Protocols:** REST API, GraphQL, WebHooks, WebSockets, gRPC, tRPC
 
 
 ## 📈 GitHub Stats
