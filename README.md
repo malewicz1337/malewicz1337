@@ -38,7 +38,7 @@ Some description?
 
 ### Other
 
-- **Architectural Patterns:** MVC, MVVM, MVP, Onion, Modular, Microservices
+- **Architectural Patterns:** MVC, MVP, MVVM, MVVM-C, VIPER
 - **API Protocols:** REST API, GraphQL, WebHooks, WebSockets, gRPC, tRPC
 
 
