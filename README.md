@@ -18,7 +18,6 @@ Some description?
 
 ### Backend
 
-- **Runtime Environment:** Node.js, Python, Go
 - **Framework:** Express, Flask, Django, FastAPI, Gorilla/Mux, Gin, NestJS
 - **Message Brokers:** RabbitMQ, BullMQ, Apache Kafka, NATS, Redis
 
