@@ -2,7 +2,7 @@
 
 Some description?
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, Python, Go, Swift, C
 
