@@ -2,45 +2,7 @@
 
 Some description?
 
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, Python, Go, Swift, C
-
-### Frontend
-
-- **Frameworks:** React Native, NextJS, SvelteKit, NuxtJS
-- **Libraries:** React, Svelte, Vue
-- **UI:** HTML, CSS, Tailwind
-- **State Management:** Redux, MobX, Vuex, Zustand
-- **Bundlers/Build Tools:** Webpack, Vite
-- **Testing:** Jest, Cypress, React Testing Library
-- **CSS Preprocessors:** SASS/SCSS, LESS
-
-### Backend
-
-- **Framework:** Express, Flask, Django, FastAPI, Gorilla/Mux, Gin, NestJS
-- **Message Brokers:** RabbitMQ, BullMQ, Apache Kafka, NATS, Redis
-
-### Cloud & DevOps
-
-- **Cloud Services:** AWS, Azure, Google Cloud
-- **Containerization:** Docker, Kubernetes
-- **Continuous Integration/Deployment:** AWS Pipeline, GitHub Actions
-- **Monitoring:** Prometheus, Grafana
-- **Logging:** Elasticsearch, Logstash, Kibana
-
-### Databases
-
-- **SQL:** MySQL, PostgreSQL
-- **NoSQL:** DynamoDB, MongoDB
-- **In-Memory Data Stores:** Redis
-
-### Other
-
-- **Architectural Patterns:** MVC, MVP, MVVM, MVVM-C, VIPER
-- **API Protocols:** REST API, GraphQL, WebHooks, WebSockets, gRPC, tRPC
-
-
+<!---
 ## 📈 GitHub Stats
 
 <a href="https://github.com/malewicz1337/github-readme-stats">
@@ -60,9 +22,4 @@ Some description?
 - **Portfolio**: [example.com](https://google.com)
 - **X**: [Xxxxx](https://twitter.com/ThePrimeagen)
 - **Email**: [daniil.malewicz@proton.me](mailto:daniil.malewicz@proton.me)
-
-
-<!---
-malewicz1337/malewicz1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
